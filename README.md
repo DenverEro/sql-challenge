@@ -1,5 +1,5 @@
 # Pewlett Hackard Employee Database Project
-
+(All assignment files are in folder called EmployeeSQL)
 ## Overview
 
 This project involves designing, implementing, and analyzing a database for Pewlett Hackard, a fictional company. The database contains historical employee data from the 1980s and 1990s, stored in six CSV files. The project is divided into three main parts: data modeling, data engineering, and data analysis.
